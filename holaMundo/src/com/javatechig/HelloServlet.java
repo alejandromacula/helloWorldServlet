@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 
 		out.println("<h1>HOTEL SOLUTIONS v.7 </h1>");
-		out.println("<h3>primeras pruebas con servlets 3 modificado por martin2 </h3>");
+		out.println("<h3>primeras pruebas con servlets 3 modificado por martin3 </h3>");
 
 		
 	}
